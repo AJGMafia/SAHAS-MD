@@ -27,7 +27,7 @@ module.exports = {
   AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
   ALWAYS_TYPING: process.env.ALWAYS_TYPING || "true",
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
-  ANTI_BOT: process.env.ANTI_BOT || "true",
+  ANTI_BOT: process.env.ANTI_BOT || "false",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
   packname: process.env.packname || "SAHAS TECH",
   author: process.env.author || "senku ishigami",
