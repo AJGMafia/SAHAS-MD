@@ -3,7 +3,7 @@ require("dotenv").config();
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "oDcnmD6b#gUo2aTrtNal8o7IHsJgz0iV0w7K20YD5xNb6BGqXz3A",
+  SESSION_ID: process.env.SESSION_ID || "ACFklQxK#GtqLwSBW0gtdmcltf0NLvXnUbvYQiZ0WfHbvEwodxmc",
   // ADD Your Session Id 
   MONGODB: process.env.MONGODB || "mongodb+srv://kulathungaasitha319:yjHB0DvFfStNfwPS@cluster0.3oijd.mongodb.net/",
     // ADD Your MongoDB Database URL
@@ -20,7 +20,7 @@ module.exports = {
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
+  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "false",
   ANTI_BAD_WORDS: (process.env.ANTI_BAD_WORDS || "pakayo,huththo").split(','),
   ANTI_LINK: process.env.ANTILINK || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
@@ -29,7 +29,7 @@ module.exports = {
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
   ANTI_BOT: process.env.ANTI_BOT || "false",
   ANTI_DELETE: process.env.ANTI_DELETE || "true",
-  packname: process.env.packname || "SAHAS TECH",
+  packname: process.env.packname || "SEnku Ishigamki",
   author: process.env.author || "senku ishigami",
   //==========================================- API-CONFIGS -==========================================================
   OPENWEATHER_API_KEY: process.env.OPENWEATHER_API_KEY || "2d61a72574c11c4f36173b627f8cb177", //openweathermap.org
@@ -75,7 +75,7 @@ _*👨‍💻 Enjoy your time with us! 😊*_
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ*` ,
 
   ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/de82e3.jpg",
-  MENU_IMG: process.env.MENU_IMG || "https://files.catbox.moe/de82e3.jpg",
+  MENU_IMG: process.env.MENU_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
   MENU_MSG: process.env.MENU_MSG || `Menumsg`,
     MENU_MS: process.env.MENU_MS || `menu 2`,
 
