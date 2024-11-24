@@ -24,7 +24,7 @@ module.exports = {
   ANTI_BAD_WORDS: (process.env.ANTI_BAD_WORDS || "pakayo,huththo").split(','),
   ANTI_LINK: process.env.ANTILINK || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
-  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
+  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "false",
   ALWAYS_TYPING: process.env.ALWAYS_TYPING || "true",
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
   ANTI_BOT: process.env.ANTI_BOT || "false",
