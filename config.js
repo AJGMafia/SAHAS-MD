@@ -20,11 +20,11 @@ module.exports = {
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "false",
+  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
   ANTI_BAD_WORDS: (process.env.ANTI_BAD_WORDS || "pakayo,huththo").split(','),
   ANTI_LINK: process.env.ANTILINK || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
-  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "false",
+  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
   ALWAYS_TYPING: process.env.ALWAYS_TYPING || "true",
   ALWAYS_RECORDING: process.env.ALWAYS_RECORDING || "true",
   ANTI_BOT: process.env.ANTI_BOT || "false",
@@ -74,9 +74,9 @@ _*👨‍💻 Enjoy your time with us! 😊*_
 
 > *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ*` ,
 
-  ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/de82e3.jpg",
+  ALIVE_IMG: process.env.ALIVE_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
   MENU_IMG: process.env.MENU_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
   MENU_MSG: process.env.MENU_MSG || `Menumsg`,
-    MENU_MS: process.env.MENU_MS || `menu 2`,
+    MENU_MS: process.env.MENU_MS || `menu 3`,
 
 };
