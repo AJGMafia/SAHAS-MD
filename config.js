@@ -77,6 +77,6 @@ _*👨‍💻 Enjoy your time with us! 😊*_
   ALIVE_IMG: process.env.ALIVE_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
   MENU_IMG: process.env.MENU_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
   MENU_MSG: process.env.MENU_MSG || `Menumsg`,
-    MENU_MS: process.env.MENU_MS || `menu 3`,
+    MENU_MS: process.env.MENU_MS || `menu 2`,
 
 };
