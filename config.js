@@ -20,7 +20,7 @@ module.exports = {
   AUTO_VOICE: process.env.AUTO_VOICE || "true",
   ANTI_BAD_WORDS_ENABLED: process.env.ANTI_BAD_WORDS_ENABLED || "true",
   AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true",
-  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "false",
+  AUTO_READ_CMD: process.env.AUTO_READ_CMD || "true",
   ANTI_BAD_WORDS: (process.env.ANTI_BAD_WORDS || "pakayo,huththo").split(','),
   ANTI_LINK: process.env.ANTILINK || "true",
   ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
