@@ -72,7 +72,7 @@ _If you need any help or have questions, don't hesitate to ask._ 🌝💗
 
 _*👨‍💻 Enjoy your time with us! 😊*_
 
-> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱᴀʜᴀꜱ ᴛᴇᴄʜ*` ,
+> *©ᴘᴏᴡᴇʀᴇᴅ ʙʏ ꜱenku ishigami*` ,
 
   ALIVE_IMG: process.env.ALIVE_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
   MENU_IMG: process.env.MENU_IMG || "https://i.pinimg.com/736x/40/6a/a1/406aa1d4b1f830b891c9e4a29f68f997.jpg",
